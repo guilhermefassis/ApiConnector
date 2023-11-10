@@ -1,0 +1,3 @@
+[submodule "apiconnectormiddleware"]
+	path = apiconnectormiddleware
+	url = https://github.com/guilhermefassis/ApiConnectorMiddleware.git
